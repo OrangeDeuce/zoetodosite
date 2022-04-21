@@ -4,6 +4,8 @@ import Addtodo from './components/Addtodo'; //2 To imort Addtodo component
 import Todolist from './components/Todolist'; //3 To import Todolist component
 import {FaSun, FaMoon} from 'react-icons/fa'; // To import the exact icons from 'fa' folder (font awesome) from react-icons
 import { useState, useEffect } from 'react';
+import zoe from './zoe2.jpg';
+import { Image } from '@chakra-ui/react';
 
 function App() {
   const initialTodos = [
@@ -60,7 +62,9 @@ function App() {
       </Heading> {/* 5 To add the Heading component inside*/}
       <Todolist todos={todos} deleteTodo={deleteTodo} />
       <Addtodo addTodo={addTodo} />
+      <Image src={zoe} boxSize='150px' objectFit='cover' alt="zoe" />
     </VStack>
+    
     
   );
 }
