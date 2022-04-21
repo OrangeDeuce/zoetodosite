@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/zoetosite/static/js/main.57d3ead7.js",
-    "index.html": "/zoetosite/index.html",
-    "main.57d3ead7.js.map": "/zoetosite/static/js/main.57d3ead7.js.map"
+    "main.js": "/zoetodosite/static/js/main.57d3ead7.js",
+    "index.html": "/zoetodosite/index.html",
+    "main.57d3ead7.js.map": "/zoetodosite/static/js/main.57d3ead7.js.map"
   },
   "entrypoints": [
     "static/js/main.57d3ead7.js"
