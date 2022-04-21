@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/zoetodosite/static/js/main.57d3ead7.js",
+    "main.js": "/zoetodosite/static/js/main.1d6a7103.js",
+    "static/media/zoe2.jpg": "/zoetodosite/static/media/zoe2.60315d76a8555b777767.jpg",
     "index.html": "/zoetodosite/index.html",
-    "main.57d3ead7.js.map": "/zoetodosite/static/js/main.57d3ead7.js.map"
+    "main.1d6a7103.js.map": "/zoetodosite/static/js/main.1d6a7103.js.map"
   },
   "entrypoints": [
-    "static/js/main.57d3ead7.js"
+    "static/js/main.1d6a7103.js"
   ]
 }
